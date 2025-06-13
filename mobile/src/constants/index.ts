@@ -1,0 +1,1 @@
+export { width, height } from './dimensions'
